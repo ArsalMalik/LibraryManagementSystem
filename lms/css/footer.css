@@ -1,0 +1,47 @@
+/* This is a custom CSS stylesheet */
+
+#footer a:link, a:visited,a:active {
+	color: #777;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+#footer a:hover {
+	color: white;
+
+}
+
+#footer {
+	
+	margin-top: 6em;
+	margin-bottom: 0em;
+	border-top-style: solid ;
+    border-color: #e7e7e7;
+    background-color: black;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+#footer_des {
+	color:  #777;
+	margin-top: 2em;
+	margin-left: 2em;
+	font-family: ;
+	font-weight: bold;
+}
+
+#footer_title {
+	font-size: 1.5em;
+	margin-top:2em;
+	font-weight: bold;
+	color: #C4C4C4;
+}
+
+#footer_list {
+	font-size: 0.75em;
+	margin-top: 1em;
+}

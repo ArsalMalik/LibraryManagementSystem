@@ -1,0 +1,51 @@
+/* This is a index CSS stylesheet */
+
+body {
+	padding-top: 55px;
+	
+}
+
+
+.thumbnail a:link, .thumbnail a:visited, .thumbnail a:active, .thumbnail a:hover {
+	color: blue;
+	font-size: 1em;
+}
+
+.thumbnail {
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+}
+.table td, .table th {
+	width: 80px;
+}
+
+#navbar-heading {
+	font-size: 1.5em;
+	font-weight: bold;
+	font-color: #DDDDDD;
+}
+
+.navbar-default .navbar-text {
+	color: ##DDDDDD;
+		padding-left: 2em;
+}
+
+.jumbotron {
+		margin-bottom: 4em;
+		text-shadow: black 0em 0.1em 0.1em;
+		background-size: 100%;
+	}
+		
+
+#main {
+	margin-left: -10em;
+	margin-right: 2em;
+}
+
+.navbar {
+	padding-top: 0.25em;
+	padding-bottom: 0.25em;
+}
+
+
+
